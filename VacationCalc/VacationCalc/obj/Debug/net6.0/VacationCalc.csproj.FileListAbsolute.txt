@@ -1,0 +1,15 @@
+I:\Project\Api\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\VacationCalc.exe
+I:\Project\Api\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\VacationCalc.deps.json
+I:\Project\Api\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\VacationCalc.runtimeconfig.json
+I:\Project\Api\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\VacationCalc.dll
+I:\Project\Api\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\VacationCalc.pdb
+I:\Project\Api\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\VacationCalc.csproj.AssemblyReference.cache
+I:\Project\Api\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\VacationCalc.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project\Api\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\VacationCalc.AssemblyInfoInputs.cache
+I:\Project\Api\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\VacationCalc.AssemblyInfo.cs
+I:\Project\Api\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\VacationCalc.csproj.CoreCompileInputs.cache
+I:\Project\Api\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\VacationCalc.dll
+I:\Project\Api\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\VacationCalc.dll
+I:\Project\Api\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\VacationCalc.pdb
+I:\Project\Api\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\VacationCalc.genruntimeconfig.cache
+I:\Project\Api\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\VacationCalc.dll
